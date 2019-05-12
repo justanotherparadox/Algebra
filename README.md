@@ -34,3 +34,6 @@ Abstract Algebra:
 2. Joseph and Rotman's Abstract Algebra (Uploaded above)
 
 3. [A History of Abstract Algebra](https://www.amazon.in/dp/0817646841/?coliid=I2E1CHJZ08UDGB&colid=22Q8X0SEDYMS3&psc=0&ref_=lv_ov_lig_dp_it) by  Israel Kleiner -----> Just to enjoy 
+
+Higher Algebra:
+===============
