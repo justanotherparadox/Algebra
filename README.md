@@ -18,6 +18,8 @@ Inequalities:
 
 6. The "Cauchy-Schwarz Master Class"  (Uploaded above)
 
+7. Inequalities by Beckenbach and Bellman (Uploaded above) ------> Advanced 
+
 *Note- Inequalities can be applied to real as well as complex variables, matrices, norms , vector spaces, integrals, functions etc. Therefore,the reader is expected to extend those wherever he/she finds necessary.
 
-7. Inequalities by Beckenbach and Bellman (Uploaded above) ------> Advanced 
+Apart from above mentioned references, I will be uploading some problem sets from various sources. 
