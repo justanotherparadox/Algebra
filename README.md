@@ -23,3 +23,14 @@ Inequalities:
 *Note- Inequalities can be applied to real as well as complex variables, matrices, norms , vector spaces, integrals, functions etc. Therefore,the reader is expected to extend those wherever he/she finds necessary.
 
 Apart from above mentioned references, I will be uploading some problem sets from various sources. 
+
+Abstract Algebra:
+=================
+
+*Note:- Abstract algebra is required at some places in analysis especially when we blend Linear Algebra with it. 
+
+1. Contemporary Abstract Algebra by Joseph Gallian (for first approach)
+
+2. Joseph and Rotman's Abstract Algebra
+
+3. [A History of Abstract Algebra](https://www.amazon.in/dp/0817646841/?coliid=I2E1CHJZ08UDGB&colid=22Q8X0SEDYMS3&psc=0&ref_=lv_ov_lig_dp_it) by  Israel Kleiner -----> Just to enjoy 
